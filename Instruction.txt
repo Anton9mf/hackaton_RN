@@ -1,0 +1,8 @@
+!pip install numpy
+!pip install pandas
+!pip install matplotlib.pyplot
+!pip install seaborn
+!pip install lazypredict
+!pip install sklearn
+!pip install catboost
+
